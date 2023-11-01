@@ -1,0 +1,15 @@
+{
+  "name": "iflab-theme-docker",
+  "version": "1.0.0",
+  "description": "theme of iflab made on docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wp-env": "wp-env"
+  },
+  "author": "Team Outstndrs",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/env": "^8.10.0"
+  }
+}

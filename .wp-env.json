@@ -1,0 +1,4 @@
+{
+  "themes": ["./themes/iflab"],
+  "plugins": ["./plugins/iflab-block-theme", "./plugins/gutenpride"]
+}
