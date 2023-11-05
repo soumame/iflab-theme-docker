@@ -1,4 +1,4 @@
 {
-  "themes": ["./themes/iflab"],
+  "themes": ["./themes/iflab", "./themes/block-iflab"],
   "plugins": ["./plugins/iflab-block-theme", "./plugins/gutenpride"]
 }
